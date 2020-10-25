@@ -1,2 +1,0 @@
-# Telecom_call_data_analysis-Project
-Telecom_call_data_analysis Project
